@@ -1,0 +1,4 @@
+Name: Emmanuel
+Age: 26
+Favorite Color: Green
+$ git init
