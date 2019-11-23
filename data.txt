@@ -1,4 +1,4 @@
 Name: Emmanuel
 Age: 26
-Favorite Color: Green
-$ git init
+Favorite Color: Red
+Sport: Climbing
